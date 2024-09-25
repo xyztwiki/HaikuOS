@@ -13,3 +13,4 @@ returnnnnn
 returnnnnnn
 returnnnnnnn
 the next update might be the compatibility
+<img width="256" alt="bit" src="https://github.com/user-attachments/assets/ffe46c13-7343-4be3-a910-d174535a2b58">
