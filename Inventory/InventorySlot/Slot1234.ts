@@ -1,5 +1,5 @@
 import 'returnnnn.ts'
-export function InventorySlot1234(){
+export function Slot1234(){
     return
     [
     'i:<><><><>',
