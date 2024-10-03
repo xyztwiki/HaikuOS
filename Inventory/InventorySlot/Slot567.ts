@@ -1,5 +1,5 @@
 import 'returnnnnn.ts'
-export function InventorySlot567890(){
+export function InventorySlot567(){
     return [
     'm:~~~ ~~~',
     'n:### ###',
