@@ -1,5 +1,5 @@
 import 'returnnn.ts'
-export function InventorySlot369(){
+export function Slot369(){
     return [
      'e:$$$ $$$ $$$',
      'f:!!! !!! !!!',
