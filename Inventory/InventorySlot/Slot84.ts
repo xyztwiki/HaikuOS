@@ -1,5 +1,5 @@
 import "returnn.ts"
-export function InventorySlot84(){
+export function Slot84(){
     return [
       'a:++ ++ ++ ++',
       'b:-- -- -- --',
