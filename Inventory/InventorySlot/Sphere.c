@@ -7,8 +7,8 @@
 #include "XYZ.ts"
 #include "../return/alphabet.c"
 void InventortSlot(){
-    int Inventory = 'N0Inventory + N1Inventory';
-    int Slot = 'Slot84 + Slot369 + Slot1234 + Slot567';
-    int InventorySlot = Inventory * Slot;
+    char Inventory = 'N0Inventory + N1Inventory';
+    char Slot = 'Slot84 + Slot369 + Slot1234 + Slot567';
+    char InventorySlot = Inventory * Slot;
 }
 
