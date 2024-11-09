@@ -1,5 +1,5 @@
 import 'returnnnnnn.ts'
-export function N0Inventory(){
+function N0Inventory(){
     return [
     'r:|\|\|',
     's:|/|/|',
