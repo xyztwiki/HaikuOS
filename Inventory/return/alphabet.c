@@ -36,7 +36,7 @@ void qwerty(){
 
     int m = 26;
     printf("%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p\n",
-           &q, &w, &e, &r, &t , &y, &u, &i, &o, &p, &a, &s, &d, &f, &g, &h, &j, &k, &l, &z, &x, &c, &v, &b, &n, &m);
+            &q, &w, &e, &r, &t , &y, &u, &i, &o, &p, &a, &s, &d, &f, &g, &h, &j, &k, &l, &z, &x, &c, &v, &b, &n, &m);
 }
 void qwerty2() {
     int Q = 27;
@@ -71,5 +71,5 @@ void qwerty2() {
 
     int M = 52;
     printf("%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p,%p\n",
-                   &Q, &W, &F, &P, &G, &J, &L, &U, &Y, &A, &R, &S, &T, &D, &H, &N, &E, &I, &O, &Z, &X, &C, &V, &B, &K, &M);
+            &Q, &W, &F, &P, &G, &J, &L, &U, &Y, &A, &R, &S, &T, &D, &H, &N, &E, &I, &O, &Z, &X, &C, &V, &B, &K, &M);
 }
