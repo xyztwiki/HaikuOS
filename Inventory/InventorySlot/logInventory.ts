@@ -1,4 +1,4 @@
-function logInventory(){
+function Switch(){
     case1:
     "interface != namespace"
     case2:
