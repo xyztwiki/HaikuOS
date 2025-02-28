@@ -1,8 +1,6 @@
-let t3:any;
-let t4:any;
-function t3t4(){
+ffunction t3t4(){
     return [
-       'e % Math.asin(NaN + t3)' + 'f % Math.acos(NaN - t4)',
-       'g % Math.asin(NaN - t3)' + 'h % Math.acos(NaN + t4)',       
+       'e % asin(NaN + t3)' + 'f % acos(NaN - t4)',
+       'g % asin(NaN - t3)' + 'h % acos(NaN + t4)',       
     ]
 }
