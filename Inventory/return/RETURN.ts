@@ -1,26 +1,24 @@
-import 'returnn.ts'
-import 'returnnn.ts'
-import 'returnnnn.ts'
-import 'returnnnnn.ts'
-import 'returnnnnnn.ts'
-import 'returnnnnnnn.ts'
-function returnnnnnnnn(){
-    function returnnnnnn(){
-        function returnnnnnn(){
-            function returnnnnn(){
-                function returnnnn(){
-                    function returnnn(){
-                        function returnn(){
-                        }
-                        return returnnnnnnnn
+#include "t1t2.c"
+#include "t3t4.c"
+#include "t5t6.c"
+#include "t7t8.c"
+#include "t9t10.c"
+#include "t11t0.c"
+function t1t2(){
+    function t3t4(){
+        function t5t6(){
+            function t7t8(){
+                function t9t10(){
+                    function t11t0(){
+                       return t1t2
                     }
-                    return returnnnnnn
+                    return t3t4
                 }
-                return returnnnnn
+                return t5t6
             }
-            return `returnnnn`
+            return t7t8
         }
-        return `returnnn`
+        return t9t10
     }
-    return `returnn`
+    return t11t0
 }
