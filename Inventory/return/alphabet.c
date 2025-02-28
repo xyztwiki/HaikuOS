@@ -1,9 +1,9 @@
-#include "returnn.ts"
-#include "returnnn.ts"
-#include "returnnnn.ts"
-#include "returnnnnn.ts"
-#include "returnnnnnn.ts"
-#include "returnnnnnnn.ts"
+#include "t1t2.c"
+#include "t3t4.c"
+#include "t5t6.c"
+#include "t7t8.c"
+#include "t9t10.c"
+#include "t11t0.c"
 void qwerty(){
     int q = 1;
     int w = 2;
